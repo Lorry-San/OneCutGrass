@@ -13,8 +13,9 @@ Note that this software may be identified as a virus software by Windows Defende
 
 # Main Requirements
 
- - Get game version REL5.0.0 (If you don't have a 5.0.0 client, you can find it here along with the audio files) - Get [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
-
+##REL 5.0(The server is based on [LunaC_5.0](https://github.com/Kei-Luna/LunaGC_5.0.0))
+ - Get this software
+ - Get game version REL5.0.0 (Although REL 5.0 is currently supported, more versions may be supported in the future)
 | Download link | Package size | Decompressed package size | MD5 checksum |
 | :---: | :---: | :---: | :---: |
 | [GenshinImpact_5.0.0.zip.001](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240816185649_LtymMnnIZVQfbLZ2/GenshinImpact_5.0.0.zip.001) | 10.0 GB | 20.0 GB | 1ebf5dbcbe43bebcda7a57a8d789092e |
@@ -39,3 +40,5 @@ Note that this software may be identified as a virus software by Windows Defende
 | [audio_ja-jp_4.8.0_5.0.0_hdiff_LumPhRraNOjGJMnG.zip](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_ja-jp_4.8.0_5.0.0_hdiff_LumPhRraNOjGJMnG.zip) | 0.71 GB | 1.63 GB | 934899593f7234bec937fca98c0b0bed |
 | [audio_zh-cn_4.8.0_5.0.0_hdiff_ZZiDHvYQeHGKuFeP.zip](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_zh-cn_4.8.0_5.0.0_hdiff_ZZiDHvYQeHGKuFeP.zip) | 0.62 GB | 1.35 GB | c1073373d6c7b3680217335dc346de50 |
 | [audio_en-us_4.8.0_5.0.0_hdiff_vsfAECOkroqoZSqK.zip](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_en-us_4.8.0_5.0.0_hdiff_vsfAECOkroqoZSqK.zip) | 0.74 GB | 1.58 GB | b5cb77749a0e2fc0e85b6b1ee319a7e9 |
+
+ - 
