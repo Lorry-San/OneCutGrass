@@ -16,6 +16,7 @@ Note that this software may be identified as a virus software by Windows Defende
 ##REL 5.0(The server is based on [LunaC_5.0](https://github.com/Kei-Luna/LunaGC_5.0.0))
  - Get this software
  - Get game version REL5.0.0 (Although REL 5.0 is currently supported, more versions may be supported in the future)
+
 | Download link | Package size | Decompressed package size | MD5 checksum |
 | :---: | :---: | :---: | :---: |
 | [GenshinImpact_5.0.0.zip.001](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240816185649_LtymMnnIZVQfbLZ2/GenshinImpact_5.0.0.zip.001) | 10.0 GB | 20.0 GB | 1ebf5dbcbe43bebcda7a57a8d789092e |
