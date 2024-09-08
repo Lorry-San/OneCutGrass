@@ -9,6 +9,7 @@ Please contribute actively to this repository
 # Setup Guide
 
 This software is very easy to use. It will automatically download Grasscutter's front-end software and MongoDB for you, and it will also prepare proxy software for you.^_^
+
 Note that this software may be identified as a virus software by Windows Defender. Please add trust to it when using it.
 
 # Main Requirements
