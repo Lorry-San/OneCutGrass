@@ -12,10 +12,11 @@ This software is very easy to use. It will automatically download Grasscutter's 
 Note that this software may be identified as a virus software by Windows Defender. Please add trust to it when using it.
 
 # Main Requirements
+(Although REL 5.0 is currently supported, more versions may be supported in the future)
 
-##REL 5.0(The server is based on [LunaC_5.0](https://github.com/Kei-Luna/LunaGC_5.0.0))
+##REL 5.0(The server is based on [LunaGC_5.0](https://github.com/Kei-Luna/LunaGC_5.0.0))
  - Get this software
- - Get game version REL5.0.0 (Although REL 5.0 is currently supported, more versions may be supported in the future)
+ - Get game version REL5.0.0
 
 | Download link | Package size | Decompressed package size | MD5 checksum |
 | :---: | :---: | :---: | :---: |
@@ -42,4 +43,6 @@ Note that this software may be identified as a virus software by Windows Defende
 | [audio_zh-cn_4.8.0_5.0.0_hdiff_ZZiDHvYQeHGKuFeP.zip](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_zh-cn_4.8.0_5.0.0_hdiff_ZZiDHvYQeHGKuFeP.zip) | 0.62 GB | 1.35 GB | c1073373d6c7b3680217335dc346de50 |
 | [audio_en-us_4.8.0_5.0.0_hdiff_vsfAECOkroqoZSqK.zip](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_en-us_4.8.0_5.0.0_hdiff_vsfAECOkroqoZSqK.zip) | 0.74 GB | 1.58 GB | b5cb77749a0e2fc0e85b6b1ee319a7e9 |
 
- - 
+ - Install server, MongoDB, and game ontology
+ - Start the server (ensure that an account has been established)
+ - Have fun!
