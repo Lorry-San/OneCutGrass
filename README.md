@@ -14,7 +14,7 @@ Note that this software may be identified as a virus software by Windows Defende
 # Main Requirements
 (Although REL 5.0 is currently supported, more versions may be supported in the future)
 
-##REL 5.0(The server is based on [LunaGC_5.0](https://github.com/Kei-Luna/LunaGC_5.0.0))
+## REL 5.0(The server is based on [LunaGC_5.0](https://github.com/Kei-Luna/LunaGC_5.0.0))
  - Get this software
  - Get game version REL5.0.0
 
